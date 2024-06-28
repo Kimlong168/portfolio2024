@@ -215,4 +215,8 @@ export const navItems = [
       id: 3,
       img: "/link.svg",
     },
+    {
+      id: 4,
+      img: "/link.svg",
+    },
   ];
